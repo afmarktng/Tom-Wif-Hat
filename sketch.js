@@ -106,9 +106,9 @@ function draw() {
   text("Tom Wif Hat",1,40);
   
   text("CA GzMWNxC1HX6ftUSejN9R4cNkW4xJwSWZopFy7g6kHgk6",1,55);
-  text("CA xxxxxxx",1,55);
-  text("CA xxxxxxx",1,55);
-  text("CA xxxxxxx",1,55);
+  text("CA GzMWNxC1HX6ftUSejN9R4cNkW4xJwSWZopFy7g6kHgk6",1,55);
+  text("CA GzMWNxC1HX6ftUSejN9R4cNkW4xJwSWZopFy7g6kHgk6",1,55);
+  text("CA GzMWNxC1HX6ftUSejN9R4cNkW4xJwSWZopFy7g6kHgk6",1,55);
   
   
   if(gameState === PLAY){
