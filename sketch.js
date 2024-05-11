@@ -98,10 +98,7 @@ function draw() {
   text("Tom Wif Hat and Jerry Official Game",200,40);
   text("Tom Wif Hat and Jerry Official Game",200,40);
 
-  text("Help Tom to catch Jerry",250,50);
-  text("Help Tom to catch Jerry",250,50);
-  text("Help Tom to catch Jerry",250,50);
-  text("Help Tom to catch Jerry",250,50);
+  
   
   text("Tom Wif Hat",1,40);
   text("Tom Wif Hat",1,40);
